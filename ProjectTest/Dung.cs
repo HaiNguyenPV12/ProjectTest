@@ -8,7 +8,7 @@ namespace ProjectTest
     {
         public void DMethod()
         {
-            Console.WriteLine("Hello Dung");
+            Console.WriteLine("Hello ABC");
         }
     }
 }
